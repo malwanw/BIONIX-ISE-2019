@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="162.56mm" height="91.4398mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 16256 9144"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#080E24}
+    .fil1 {fill:#E6D5E2}
+   ]]>
+    @keyframes appear {
+      	from {
+        	opacity: 0 }
+      	to {
+        	opacity: 1 }
+    }
+    .s5{
+      animation: appear 6s infinite;
+    }
+    .s2{
+      animation: appear 2s infinite;
+    }
+    .s4{
+      animation: appear 5s infinite;
+    }
+    .s3{
+      animation: appear 4s infinite;
+    }
+    .s1{
+        animation: appear 3s infinite;
+    }
+  </style>
+    <clipPath id="id0">
+     <path d="M4495 2825l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M1518 7275l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M10767 1623l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id3">
+     <path d="M2979 4667l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id4">
+     <path d="M1662 4277l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id5">
+     <path d="M4278 4653l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id6">
+     <path d="M3970 3691l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id7">
+     <path d="M6192 7486l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id8">
+     <path d="M6195 4396l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id9">
+     <path d="M5623 1342l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id10">
+     <path d="M1477 3019l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id11">
+     <path d="M12157 4871l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id12">
+     <path d="M13646 2703l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id13">
+     <path d="M13016 5949l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id14">
+     <path d="M11699 5559l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id15">
+     <path d="M14315 5935l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id16">
+     <path d="M15339 5348l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id17">
+     <path d="M14889 2067l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id18">
+     <path d="M13074 4438l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id19">
+     <path d="M7444 3888l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id20">
+     <path d="M14418 5272l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id21">
+     <path d="M11515 4301l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id22">
+     <path d="M6785 6503l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id23">
+     <path d="M9575 6413l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id24">
+     <path d="M8613 6720l77 0 0 77 -77 0 0 -77z"/>
+    </clipPath>
+    <clipPath id="id25">
+     <path d="M5623 5962l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id26">
+     <path d="M11012 6647l147 0 0 147 -147 0 0 -147z"/>
+    </clipPath>
+    <clipPath id="id27">
+     <path d="M13603 3492l1361 0 0 1362 -1361 0 0 -1362z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="16256" height="9144"/>
+  <g id="_2319490828240">
+   <g style="clip-path:url(#id0)">
+    <image x="4495" y="2825" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID1.png"/>
+   </g>
+  </g>
+  <path class="fil1 s1" d="M4534 2831c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319490824560">
+   <g style="clip-path:url(#id1)">
+    <image x="1518" y="7275" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID2.png"/>
+   </g>
+  </g>
+  <path class="fil1 s2" d="M1556 7281c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319490825904">
+   <g style="clip-path:url(#id2)">
+    <image x="10767" y="1623" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID3.png"/>
+   </g>
+  </g>
+  <path class="fil1 s1" d="M10805 1629c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319490824144">
+   <g style="clip-path:url(#id3)">
+    <image x="2979" y="4667" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID4.png"/>
+   </g>
+  </g>
+  <path class="fil1 s3" d="M3052 4679c34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61 0,-34 27,-61 61,-61z"/>
+  <g id="_2319490823728">
+   <g style="clip-path:url(#id4)">
+    <image x="1662" y="4277" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID5.png"/>
+   </g>
+  </g>
+  <path class="fil1 s4" d="M1700 4283c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319490822704">
+   <g style="clip-path:url(#id5)">
+    <image x="4278" y="4653" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID6.png"/>
+   </g>
+  </g>
+  <path class="fil1 s3" d="M4316 4660c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664318944">
+   <g style="clip-path:url(#id6)">
+    <image x="3970" y="3691" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID7.png"/>
+   </g>
+  </g>
+  <path class="fil1 s1" d="M4009 3697c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664320448">
+   <g style="clip-path:url(#id7)">
+    <image x="6192" y="7486" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID8.png"/>
+   </g>
+  </g>
+  <path class="fil1 s1" d="M6265 7498c34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61 0,-34 27,-61 61,-61z"/>
+  <g id="_2319664316960">
+   <g style="clip-path:url(#id8)">
+    <image x="6195" y="4396" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID9.png"/>
+   </g>
+  </g>
+  <path class="fil1 s2" d="M6233 4403c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664318688">
+   <g style="clip-path:url(#id9)">
+    <image x="5623" y="1342" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID10.png"/>
+   </g>
+  </g>
+  <path class="fil1 s4" d="M5696 1355c34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61 0,-34 27,-61 61,-61z"/>
+  <g id="_2319664315424">
+   <g style="clip-path:url(#id10)">
+    <image x="1477" y="3019" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID11.png"/>
+   </g>
+  </g>
+  <path class="fil1 s1" d="M1516 3025c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664316064">
+   <g style="clip-path:url(#id11)">
+    <image x="12157" y="4871" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID12.png"/>
+   </g>
+  </g>
+  <path class="fil1 s3" d="M12195 4877c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664316544">
+   <g style="clip-path:url(#id12)">
+    <image x="13646" y="2703" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID13.png"/>
+   </g>
+  </g>
+  <path class="fil1 s4" d="M13684 2709c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664313760">
+   <g style="clip-path:url(#id13)">
+    <image x="13016" y="5949" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID14.png"/>
+   </g>
+  </g>
+  <path class="fil1 s2" d="M13090 5962c34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61 0,-34 27,-61 61,-61z"/>
+  <g id="_2319664312800">
+   <g style="clip-path:url(#id14)">
+    <image x="11699" y="5559" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID15.png"/>
+   </g>
+  </g>
+  <path class="fil1 s2" d="M11737 5566c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664310880">
+   <g style="clip-path:url(#id15)">
+    <image x="14315" y="5935" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID16.png"/>
+   </g>
+  </g>
+  <path class="fil1 s1" d="M14354 5942c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664312032">
+   <g style="clip-path:url(#id16)">
+    <image x="15339" y="5348" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID17.png"/>
+   </g>
+  </g>
+  <path class="fil1 s4" d="M15377 5355c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664309088">
+   <g style="clip-path:url(#id17)">
+    <image x="14889" y="2067" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID18.png"/>
+   </g>
+  </g>
+  <path class="fil1 s3" d="M14962 2079c34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61 0,-34 27,-61 61,-61z"/>
+  <g id="_2319664309888">
+   <g style="clip-path:url(#id18)">
+    <image x="13074" y="4438" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID19.png"/>
+   </g>
+  </g>
+  <path class="fil1 s1" d="M13147 4450c34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61 0,-34 27,-61 61,-61z"/>
+  <g id="_2319664308928">
+   <g style="clip-path:url(#id19)">
+    <image x="7444" y="3888" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID20.png"/>
+   </g>
+  </g>
+  <path class="fil1 s4" d="M7483 3895c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664307264">
+   <g style="clip-path:url(#id20)">
+    <image x="14418" y="5272" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID21.png"/>
+   </g>
+  </g>
+  <path class="fil1 s5" d="M14491 5284c34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61 0,-34 27,-61 61,-61z"/>
+  <g id="_2319664307648">
+   <g style="clip-path:url(#id21)">
+    <image x="11515" y="4301" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID22.png"/>
+   </g>
+  </g>
+  <path class="fil1 s2" d="M11553 4308c18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32 0,-18 14,-32 32,-32z"/>
+  <g id="_2319664304960">
+   <g style="clip-path:url(#id22)">
+    <image x="6785" y="6503" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID23.png"/>
+   </g>
+  </g>
+  <path class="fil1 s3" d="M6791 6542c0,-18 14,-32 32,-32 18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32z"/>
+  <g id="_2319664305792">
+   <g style="clip-path:url(#id23)">
+    <image x="9575" y="6413" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID24.png"/>
+   </g>
+  </g>
+  <path class="fil1 s5" d="M9582 6451c0,-18 14,-32 32,-32 18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32z"/>
+  <g id="_2319664302912">
+   <g style="clip-path:url(#id24)">
+    <image x="8613" y="6720" width="77" height="77" xlink:href="bg-contact_Images\bg-contact_ImgID25.png"/>
+   </g>
+  </g>
+  <path class="fil1 s2" d="M8619 6759c0,-18 14,-32 32,-32 18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32z"/>
+  <g id="_2319664303456">
+   <g style="clip-path:url(#id25)">
+    <image x="5623" y="5962" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID26.png"/>
+   </g>
+  </g>
+  <path class="fil1 s4" d="M5635 6035c0,-34 27,-61 61,-61 34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61z"/>
+  <g id="_2319664304352">
+   <g style="clip-path:url(#id26)">
+    <image x="11012" y="6647" width="147" height="147" xlink:href="bg-contact_Images\bg-contact_ImgID27.png"/>
+   </g>
+  </g>
+  <path class="fil1 s1" d="M11025 6720c0,-34 27,-61 61,-61 34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61z"/>
+  <path class="fil1 s4" d="M5696 2079c34,0 61,27 61,61 0,34 -27,61 -61,61 -34,0 -61,-27 -61,-61 0,-34 27,-61 61,-61z"/>
+  <g id="_2319664301472">
+   <g style="clip-path:url(#id27)">
+    <image x="13603" y="3492" width="1361" height="1362" xlink:href="bg-contact_Images\bg-contact_ImgID28.png"/>
+   </g>
+  </g>
+  <path class="fil1" d="M13717 4131c22,-293 267,-525 566,-525 299,0 544,231 566,525l-1132 0zm1133 71c-3,55 -13,108 -31,158l-1073 0c-17,-50 -28,-103 -31,-158l1134 0zm-61 229c-24,47 -54,89 -88,127l-836 0c-35,-38 -65,-81 -88,-127l1013 0zm-167 198c-95,71 -212,113 -339,113 -127,0 -245,-42 -339,-113l679 0z"/>
+  <path class="fil1 s3" d="M9080 7652c0,-18 14,-32 32,-32 18,0 32,14 32,32 0,18 -14,32 -32,32 -18,0 -32,-14 -32,-32z"/>
+ </g>
+</svg>

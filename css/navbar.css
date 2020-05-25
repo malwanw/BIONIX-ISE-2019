@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'MonumentExtended Bold';
+    src: url('../fonts/MonumentExtended-Bold.otf');
+}
+@font-face {
+    font-family: 'MonumentExtended Regular';
+    src: url('../fonts/MonumentExtended-Regular.otf');
+}
+@font-face {
+    font-family: 'MonumentExtended Ultrabold';
+    src: url('../fonts/MonumentExtended-Ultrabold.otf');
+}
+@font-face {
+    font-family: 'Roboto Black';
+    src: url('../fonts/Roboto-Black.ttf');
+}
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url('../fonts/Roboto-Bold.ttf');
+}
+@font-face {
+    font-family: 'RobotoMono Bold';
+    src: url('../fonts/RobotoMono-Bold.ttf');
+}
+@font-face {
+    font-family: 'RobotoMono Medium';
+    src: url('../fonts/RobotoMono-Medium.ttf');
+}
+
+
+.navbar-default {
+    background: transparent;
+    padding: 20px 0;
+    border: none;
+}
+
+.navbar-nav {
+    border-radius: 20px;
+    border: none;
+    background-color:  rgba(255, 255, 255, 0.8);
+    padding: 10px;
+}
+
+.container>.navbar-collapse{
+    margin: 0;
+}
+
+.navbar-collapse{
+    border-top: none;
+}
+.navbar-nav>li>a {
+    font-family: 'Roboto Black';
+    color: white;
+    cursor: pointer;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.navbar-nav>li>a:hover {
+    background: #fff;
+    
+}
+
+.navbar-nav>li>a:focus {
+    background: #fff;
+    
+}

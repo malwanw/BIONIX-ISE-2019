@@ -1,0 +1,496 @@
+/*Font*/
+@font-face {
+    font-family: 'MonumentExtended Bold';
+    src: url('../fonts/MonumentExtended-Bold.otf');
+}
+@font-face {
+    font-family: 'MonumentExtended Regular';
+    src: url('../fonts/MonumentExtended-Regular.otf');
+}
+@font-face {
+    font-family: 'MonumentExtended Ultrabold';
+    src: url('../fonts/MonumentExtended-Ultrabold.otf');
+}
+@font-face {
+    font-family: 'Roboto Black';
+    src: url('../fonts/Roboto-Black.ttf');
+}
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url('../fonts/Roboto-Bold.ttf');
+}
+@font-face {
+    font-family: 'RobotoMono Bold';
+    src: url('../fonts/RobotoMono-Bold.ttf');
+}
+@font-face {
+    font-family: 'RobotoMono Medium';
+    src: url('../fonts/RobotoMono-Medium.ttf');
+}
+/*general*/
+body,
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #080E24;
+    -webkit-user-select: auto;
+    -moz-user-select: auto;
+    -ms-user-select: auto;
+    user-select: auto; 
+}
+.full-section {
+	min-height: 100vh;
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	box-sizing: border-box;
+	position: relative;
+    overflow: hidden;
+}
+.title{
+    text-align: center;
+    margin-top: 2%;
+    padding: 0 15px;
+}
+.title-box h1{
+    font-size: 32px;
+    font-family: "Roboto Bold";
+    text-align: center;
+    font-weight: normal;
+    display: inline-block;
+    color: white;
+    background-image: linear-gradient(to bottom, #b30d5c , #791a50, #141c3c);
+    border: none;
+    border-radius: 13px;
+    padding: 7px 30px;
+    margin: 50px auto;
+}
+/*popup*/
+.modal-content{
+    background-image:url('../img/poster%20promo.jpg'); 
+    background-size: 100%; 
+    width:500px; 
+    height:500px; 
+    background-repeat: no-repeat;
+}
+.close{
+    color: #C21863;
+}
+.close:hover{
+    color: #E6D5E2;
+}
+
+/*navbar*/
+.nav{
+    color: white;
+}
+/*showpage*/
+#showpage{
+    background-color: #080E24;
+}
+.container-showpage{
+    margin-top: 175px;
+}
+.logo-bionix {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    z-index: 1;
+}
+.logo-bionix img{
+    cursor: pointer;
+}
+#logo{
+    width: 300px;
+}
+#bionix{
+    width: 500px;
+    display:block;
+    margin: auto;
+}
+.countdown{
+    margin-bottom: 40px;
+}
+.progress {
+    width: 80%;
+    display:block;
+    margin: auto;
+}
+.progress .skill .val {
+  float: right;
+  font-style: normal;
+  margin: 0 20px 0 0;
+}
+.tl-showpage {
+    display:block;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'MonumentExtended Bold';
+    text-transform:uppercase;
+    color: #888888;
+	margin-bottom:5px;
+    color: #E6D5E2;
+    text-shadow: -1px -2px 2px #BB1962;
+}
+.progress-bar {
+    text-align: left;
+    border-radius:20px;
+    transition-duration: 12s;
+    background: linear-gradient(#C91864, #21284D);
+	background: -webkit-linear-gradient(#C91864, #21284D);
+	background: -o-linear-gradient(#C91864, #21284D);
+    background: -moz-linear-gradient(#C91864, #21284D); 
+}
+.tombol{
+    margin-top: 35px;
+    text-align: center;
+}
+.tombol1{
+    text-align: center;
+}
+.button {
+    font-size: 16px;
+    color: white;
+    background-image: linear-gradient(to bottom right, #b30d5c , #791a50, #141c3c);
+    border: none;
+    border-radius: 15px;
+    padding: 10px 40px 10px 40px;
+    font-family: "Roboto Black";
+}
+.tombol a{
+    font-family: "Roboto Black";
+    cursor: pointer;
+}
+.tombol a:hover{
+    background: white;
+    opacity: 0,5;
+}
+.tombol a:focus{
+    background: white;
+    opacity: 0,5;
+}
+/*about*/
+#about{
+    background-color: #080E24;
+    margin-bottom: -1px;
+}
+.about-tl{
+    text-align: center;
+    margin: 8% auto 5% auto;
+}
+
+#about-title{
+    font-family: "MonumentExtended Regular";
+    color: green ;
+    font-size: 30px;
+}
+
+#descbox-about{
+    margin-left: 33.333%;
+    margin-right: 33.333%;
+}
+.description{
+    font-family: "Roboto Black";
+    font-size: 20px;
+    background: #e6d5e2;
+    color: #08041d;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #b30d5c, 0 0 30px #b30d5c;
+}
+.description p{
+    text-align: center;
+}
+/*timeline*/
+#timeline{
+    background-color: #080E24;
+    margin-bottom: -1px;
+}
+.timeline {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mobile-tl{
+    width:250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*region*/
+#region{
+    background-color: #080E24;
+}
+.region-desc{
+    display: inline-block;
+    font-family: "Roboto Bold";
+    font-size: 15px;
+    background: #e6d5e2;
+    color: #08041d;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px #b30d5c, 0 0 30px #b30d5c;
+    -moz-box-shadow: 0 0 10px #b30d5c, 0 0 30px #b30d5c;
+    box-shadow: 0 0 10px #b30d5c, 0 0 30px #b30d5c;
+}
+#region-list1, #region-list2 p{
+    text-align: left;
+    padding: 10px 20px;
+}
+#region-img{
+    margin-top: 50px;
+}
+#region-list1{
+    margin-top: 300px;
+}
+/*prize*/
+#prize{
+    background-image: url(../img/section%20prize.svg);
+    margin-bottom: -1px;
+}
+.container-prize{
+    text-align: center;
+}
+#juara2{
+    margin-top: 50px;
+}
+#juara3{
+    margin-top: 50px;
+}
+.prize-descbox{
+    margin-top: 10px;
+    text-align: center;
+}
+.hadiah{
+    text-align: center;
+    font-family: "MonumentExtended Bold";
+    background: #e6d5e2;
+    color: #08041d;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #b30d5c, 0 0 30px #b30d5c;
+    display: inline-block;
+}
+.hadiah h1{
+    font-size: 20px;
+}
+/*contact*/
+#contact{
+    background-image: url(../img/section%20contact.svg);
+    background-attachment: fixed;
+    background-color: #080E24;
+    position: relative;
+}
+.contact-us{
+    text-align: center;
+    
+}
+.cp-descbox h1{
+    text-align: center;
+    font-family: "Roboto Bold";
+    font-size: 30px;
+    background: #e6d5e2;
+    color: #08041d;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #b30d5c, 0 0 30px #b30d5c;
+    display: inline-block; 
+}
+#cp-descbox1 h1{
+    padding: 15px 95px;
+}
+.list-contact {
+    text-align: center;
+}
+#cp-descbox2 h1{
+    padding: 15px 50px;
+}
+#building{
+    bottom: -11px;
+    width: 90%;
+    position: absolute;
+    margin-left: 5%;
+    margin-right: auto;
+}
+/* CSS Media Query */
+@media (max-width: 1200px) {
+
+}
+@media(max-width: 1000px){
+    .region-desc{
+        font-size: 13px;
+    }
+}
+@media (min-width: 992px) {
+   
+    #juara1 img{
+        width: 250px;
+    }
+    #juara2 img{
+        width: 210px;
+        margin-left: 30%;
+    }
+    #juara3 img{
+        width: 210px;
+        margin-right: 30%;
+    }
+    .bgipad{
+        min-height: 600px;
+    }
+}
+@media (max-width: 992px) {
+    #descbox-about{
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .container-region{
+        text-align: center;
+    }
+
+    .region-desc{
+        font-size: 12px;
+    }
+    #region-img{
+        margin-top: 0px;
+    }
+    #region-list1{
+        margin-top: 15px;
+    }
+    #region-list2{
+        margin-top: 15px;
+    }
+
+    #juara1 img{
+        width: 230px;
+    }
+    #juara2 img{
+        width: 200px;
+    }
+    #juara3 img{
+        width: 200px;
+    }
+    #juara2{
+        margin-top: 0px;
+    }
+    #juara3{
+        margin-top: 0px;
+    }
+    .hadiah h1{
+        font-size: 16px;
+    }
+    
+}
+
+
+@media (max-width: 768px) {
+    .progress{
+        width: 80%;
+    }
+
+    #descbox-about{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    .container-region{
+        text-align: center;
+    }
+    .region-desc{
+        font-size: 10px;
+    }
+    #region-img{
+        margin-top: 0px;
+    }
+    #region-list1{
+        margin-top: 15px;
+    }
+    #region-list2{
+        margin-top: 15px;
+    }
+
+    #juara1 img{
+        width: 200px;
+    }
+    #juara2 img{
+        width: 180px;
+    }
+    #juara3 img{
+        width: 180px;
+    }
+    #juara2{
+        margin-top: 0px;
+    }
+    #juara3{
+        margin-top: 0px;
+    }
+    
+    .hadiah h1{
+        font-size: 14px;
+    }
+}
+@media (max-width: 600px){
+    .timeline{
+        display: none;
+    }
+}
+@media (min-width: 601px){
+    .mobile-tl{
+        display: none;
+    }
+}
+@media (max-width: 576px) {
+    .progress{
+        width: 80%;
+    }
+
+    .logo-bionix {
+        position: absolute;
+        top: 50px;
+        left: 0;
+        padding: 30px;
+        z-index: 1;
+    }
+    #logo{
+        width: 100%;
+    }
+
+    #descbox-about{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .region-desc{
+        font-size: 10px;
+    }
+    .container-region{
+        text-align: center;
+    }
+    #region-img{
+        margin-top: 0px;
+    }
+    #region-list1{
+        margin-top: 15px;
+    }
+    #region-list2{
+        margin-top: 15px;
+    }
+    
+    
+    #juara2{
+        margin-top: 0px;
+    }
+    #juara3{
+        margin-top: 0px;
+    }
+    .hadiah h1{
+        font-size: 12px;
+    }
+    .modal-content{
+        width:300px; 
+        height:300px;
+        margin-top: 100px;
+    }
+}
